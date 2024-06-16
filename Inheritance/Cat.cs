@@ -1,6 +1,6 @@
 using System;
 
-namespace InheritanceDemo
+namespace Inheritance
 {
     class Cat : Animal
     {
